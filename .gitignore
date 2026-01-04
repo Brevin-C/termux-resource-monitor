@@ -1,0 +1,13 @@
+# Binaries
+monitor-*
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test files
+*.test
+*.out
+
+# Build artifacts
+vendor/
